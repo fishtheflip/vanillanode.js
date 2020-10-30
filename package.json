@@ -1,0 +1,18 @@
+{
+  "name": "vanillanodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  }
+}
